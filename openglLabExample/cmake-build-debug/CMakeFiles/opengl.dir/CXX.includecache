@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/YBH/Desktop/CG/openglLabExample/code1.cpp
+
+/Users/YBH/Desktop/CG/openglLabExample/code2.cpp
+GL/glew.h
+-
+GL/glut.h
+-
+
+/Users/YBH/Desktop/CG/openglLabExample/main.cpp
+

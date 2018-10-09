@@ -16,7 +16,7 @@ set(CMAKE_CXX_STANDARD 11)
 #  Load libraries 
 # -------------------
 
-#openglLabExample
+#opengl
 find_package(OpenGL REQUIRED)
 include_directories(${OPENGL_INCLUDE_DIR})
 
